@@ -1,0 +1,13 @@
+body{
+  padding: 20px;
+  background-color: #0B2434;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
